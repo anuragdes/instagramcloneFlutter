@@ -2,7 +2,7 @@
 
 A completely Responsive Instagram App- Works on Android, iOS & Web! 
 
-## Features
+## Features in project
 - Responsive Instagram UI
 - Email & Password Authentication
 - Share Posts with Caption
@@ -16,7 +16,7 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 
 
 
-## Installation
+## Installation process
 After cloning this repository, migrate to ```instagram-flutter-clone``` folder. Then, follow the following steps:
 - Create Firebase Project
 - Enable Authentication
@@ -36,7 +36,5 @@ Then run the following commands to run your app:
 
 **Client**: Flutter, Provider
     
-## Feedback
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
 
