@@ -1,4 +1,8 @@
-# Instagram Clone
+
+![Screenshot (186)](https://github.com/anuragdes/instagramcloneFlutter/assets/100059293/fd111d93-951a-41d8-a397-461a38637c05)
+
+# Instagram Clone![Uploading Screenshot (186).png…]()
+
 
 A completely Responsive Instagram App- Works on Android, iOS & Web! 
 
@@ -14,6 +18,8 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 - EVERYTHING REAL TIME
 - Sign Out
 
+
+![Uploading Screenshot (187).png…]()
 
 
 ## Installation process
